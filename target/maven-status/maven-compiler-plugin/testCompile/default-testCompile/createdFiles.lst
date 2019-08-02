@@ -1,0 +1,5 @@
+TestNG\Assertion.class
+TestNG\DependsOnMethods.class
+TestNG\JavaScriptExecutor.class
+TestNG\Groups.class
+TestNG\Priority.class
